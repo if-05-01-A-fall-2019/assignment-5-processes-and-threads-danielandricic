@@ -78,6 +78,4 @@ public class FibonacciTest {
     public void testLarge() {
         assertEquals(1_836_311_903, Fibonacci.getNumberSingle(N));
     }
-    
-    public void testParallel
 }

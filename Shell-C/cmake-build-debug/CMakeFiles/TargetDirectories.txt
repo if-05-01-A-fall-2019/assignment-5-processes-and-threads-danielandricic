@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/assignment-5-processes-and-threads-danielandricic/Shell-C/cmake-build-debug/CMakeFiles/Shell_C.dir
+C:/Users/User/Desktop/assignment-5-processes-and-threads-danielandricic/Shell-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/assignment-5-processes-and-threads-danielandricic/Shell-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
